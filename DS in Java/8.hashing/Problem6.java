@@ -38,4 +38,4 @@ public class Problem6 {
         System.out.println(longestSubarray(a, a.length, k));
     }
 
-}
+} // aa
