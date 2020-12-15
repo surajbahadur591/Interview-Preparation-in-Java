@@ -11,7 +11,7 @@ class Node {
     }
 }
 
-public class problem1 {
+public class Problem1 {
 
     // inorder = 20, 10, 40, 30, 50
     static void inorder(Node root) {
