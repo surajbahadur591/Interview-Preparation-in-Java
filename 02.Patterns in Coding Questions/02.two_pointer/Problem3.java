@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 public class Problem3 {
 
-    // squre of sorted array with negative number
+    // square of sorted array with negative number
     // Input: [-2, -1, 0, 2, 3]
     // Output: [0, 1, 4, 4, 9]
 
