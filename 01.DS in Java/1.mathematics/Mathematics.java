@@ -1,6 +1,7 @@
 import java.lang.*;
 import java.util.*;
 
+
 public class Mathematics {
 
     // recursive solution to count digit of a number
