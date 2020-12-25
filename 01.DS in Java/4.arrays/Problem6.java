@@ -19,6 +19,7 @@ public class Problem6 {
         lmax[0] = arr[0];
         rmax[n - 1] = arr[n - 1];
         for (int i = 1; i < n; i++)
+            
             lmax[i] = Math.max(arr[i], lmax[i - 1]);
 
         // for (int i = 0; i < lmax.length; i++) // length is the property of the array
