@@ -3,6 +3,7 @@ public class Problem9 {
     // return index of element
     // [ 8, 3, 4, 8, 8]
     // output - 0 or 3 or 4
+    
 
     static int findMajority(int arr[], int n) {
         int res = 0, count = 1;
