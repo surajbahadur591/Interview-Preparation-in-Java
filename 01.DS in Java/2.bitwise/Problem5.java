@@ -28,6 +28,7 @@ public class Problem5 {
         int a[] = { 3, 4, 3, 4, 5, 4, 4, 6, 7, 7 };
         findNumbers(a, 10);
 
+        
     }
 
 }
