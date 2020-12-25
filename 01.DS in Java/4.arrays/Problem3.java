@@ -1,6 +1,6 @@
 public class Problem3 {
 
-    // find leading in an array
+    // find leader in an array
     // leader means all the right side elements is strictly less than current
     // element
 
