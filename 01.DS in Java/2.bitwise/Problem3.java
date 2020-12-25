@@ -1,6 +1,7 @@
 public class Problem3 {
 
     // check if a number is power of 2 or not
+    
     // n=4 , TRUE
     // n=6, false
     static boolean powOf2(int n) {
