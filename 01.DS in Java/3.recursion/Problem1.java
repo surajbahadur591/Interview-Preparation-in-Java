@@ -1,6 +1,7 @@
 public class Problem1 {
 
     // subset sum problem
+    
     // [10, 5, 2,3, 6], sum =8
     // output = 2 | 5, 3 and 6,2
 
