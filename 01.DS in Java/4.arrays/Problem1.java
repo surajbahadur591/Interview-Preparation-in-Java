@@ -1,6 +1,7 @@
 public class Problem1 {
 
     // rotate array left [left rotation]
+    
     // [1, 2, 3, 4, 5], d = 2
     // output = [3, ,4 ,5, 1,2]
 
