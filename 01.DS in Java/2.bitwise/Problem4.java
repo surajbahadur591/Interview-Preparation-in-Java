@@ -39,6 +39,7 @@ public class Problem4 {
 
         int c[] = { 1, 5, 2, 3 };
         System.out.println(findNumber(c, 4));
+        
 
     }
 
