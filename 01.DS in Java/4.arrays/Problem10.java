@@ -3,6 +3,7 @@ public class Problem10 {
     // find the maximum sum of k consecutive elements
     // [1, 8, 30, -5, 20, 7 ]
     // output - 45
+    
 
     // remove an element from left, add element on right
 
