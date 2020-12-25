@@ -1,6 +1,7 @@
 public class Problem1 {
 
     // check is k-th bit is set or not
+    
     // set means 1
     // n=5, k=1 --> 0101 YES
     // n=2, k=3 --> 10 NO
