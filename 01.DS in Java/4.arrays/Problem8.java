@@ -3,6 +3,7 @@ public class problem8 {
     // [ 5, 10, 20, 6, 3, 8]
     // output - 3 \ 6, 3, 8
     // use kadane algorithms
+    
 
     static int maxEvenOdd(int arr[], int n) {
         int res = 1;

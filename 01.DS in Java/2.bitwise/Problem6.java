@@ -1,6 +1,7 @@
 public class Problem6 {
 
     // generate powerset
+    
     // s=abc
     // output : "", a, b, c, ab, ac, bc, abc | order can be different
     // 0 to (2^n - 1)
