@@ -3,6 +3,7 @@ public class Problem1 {
     // find the index of first occurence
     // [1, 10, 10, 10, 20, 20, 40], x = 20
     // output - 4
+    
 
     static int firstOcc(int arr[], int n, int x) {
 
