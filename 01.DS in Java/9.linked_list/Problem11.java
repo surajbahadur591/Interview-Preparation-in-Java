@@ -29,6 +29,7 @@ public class Problem11 {
         ele2.next = ele3;
         ele3.next = ele1;
 
+        
     }
 
 }
