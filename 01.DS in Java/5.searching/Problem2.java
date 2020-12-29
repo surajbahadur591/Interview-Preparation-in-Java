@@ -1,5 +1,6 @@
 public class Problem2 {
 
+    
     // find the index of last occurence
     // [10, 15, 20, 20, 40, 40], x = 20
     // output - 3

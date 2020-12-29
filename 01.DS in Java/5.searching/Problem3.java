@@ -2,6 +2,7 @@ public class Problem3 {
 
     // count 1's in sorted binary array
     // [0, 0, 1, 1, 1, 1]
+    
     // output 4
 
     static int countOnes(int arr[], int n) {
