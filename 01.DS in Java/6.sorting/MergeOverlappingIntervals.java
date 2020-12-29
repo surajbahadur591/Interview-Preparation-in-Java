@@ -63,3 +63,4 @@ public class MergeOverlappingIntervals {
         mergeIntervals(arr);
     }
 }
+
