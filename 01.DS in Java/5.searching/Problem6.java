@@ -41,6 +41,7 @@ public class Problem6 {
         int a[] = { 10, 20, 30, 40, 50 };
         int b[] = { 5, 15, 25, 35, 45 };
         // int x = 17;
+        
         System.out.println(findMedian(a, b, a.length, b.length));
     }
 }

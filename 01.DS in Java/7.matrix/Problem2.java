@@ -32,6 +32,7 @@ public class Problem2 {
         print(a);
         transpose(a);
         print(a);
+        
     }
 
 }

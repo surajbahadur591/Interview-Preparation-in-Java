@@ -32,6 +32,7 @@ public class Problem3 {
             while (low < high) {
                 temp = arr[low][i];
                 arr[low][i] = arr[high][i];
+                
                 arr[high][i] = temp;
                 low++;
                 high--;

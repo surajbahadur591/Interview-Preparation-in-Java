@@ -14,6 +14,7 @@ public class Problem6 {
         for (int i = 0; i < n; i++) {
             prefix_sum += arr[i];
             if (prefix_sum == k) {
+                
                 res = i + 1;
 
             }
