@@ -54,6 +54,7 @@ public class Problem6 {
         // printing
         // System.out.print(insertBegin(head, x));
         // printRecursive(head);
+        
 
     }
 
