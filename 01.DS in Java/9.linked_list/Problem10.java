@@ -52,6 +52,7 @@ public class Problem10 {
         System.out.println();
         Node prev = reverseLL(head);
         printRecursive(prev);
+        
         System.out.println();
 
     }
