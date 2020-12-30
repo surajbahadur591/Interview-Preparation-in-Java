@@ -2,7 +2,7 @@ import java.util.Collections;
 import java.util.PriorityQueue;
 
 public class Problem1 {
-    // min heap and max heap using priority quequ
+    // min heap and max heap using priority queqe
 
     public static void main(String args[]) {
 
@@ -21,5 +21,6 @@ public class Problem1 {
         System.out.println(pq.peek());
 
     }
+    
 
 }
