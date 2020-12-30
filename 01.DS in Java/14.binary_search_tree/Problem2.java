@@ -36,6 +36,7 @@ public class Problem2 {
 
     }
 
+    
     public static void main(String args[]) {
 
         Node root = new Node(20);
