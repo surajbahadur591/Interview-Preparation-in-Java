@@ -108,6 +108,7 @@ public class Problem1 {
         System.out.println();
         System.out.println("postorder traversal");
         postorder(root);
+        
 
     }
 
