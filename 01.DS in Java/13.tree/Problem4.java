@@ -32,6 +32,7 @@ public class Problem4 {
         root.left = n1;
         root.right = n2;
         n2.left = n3;
+        
         n2.right = n4;
         n3.left = n5;
 
