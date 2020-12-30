@@ -7,6 +7,7 @@ public class Problem1 {
 
         Queue<Integer> q = new LinkedList<Integer>();
         q.add(10);
+        
         q.add(5);
         q.add(20);
 
