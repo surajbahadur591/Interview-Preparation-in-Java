@@ -1,5 +1,6 @@
 public class Problem2 {
     // maximum sum of any contiguous subarray of size ‘k’
+    
 
     public static int findMaxSubarray(int arr[], int k) {
         int windowSum = 0, maxSum = 0;
