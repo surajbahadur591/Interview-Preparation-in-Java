@@ -1,5 +1,6 @@
 
 //stack implementation
+
 import java.util.Stack;
 
 public class Problem1 {
