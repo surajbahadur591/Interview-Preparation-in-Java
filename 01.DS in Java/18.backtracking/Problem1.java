@@ -55,4 +55,5 @@ public class Problem1 {
         boolean pathExists = ratInAMaze(maze);
         System.out.print(pathExists);
     }
+    
 }
